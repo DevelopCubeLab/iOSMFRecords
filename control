@@ -1,0 +1,9 @@
+Package: com.null.mfrecordplus
+Name: MFRecordPlus
+Version: 1.0
+Architecture: iphoneos-arm
+Description: 强力解决iOS版小米运动健康app体重秤称面设置斤后，app内仍然显示kg问题
+Maintainer: null
+Author: null
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
